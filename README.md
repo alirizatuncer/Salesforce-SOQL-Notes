@@ -1,6 +1,5 @@
-# SF-SQL-Notes
-
-My all SQL Notes for Salesforce Marketing Cloud
+# Salesforce SOQL Notes
+SOQL Notes for Salesforce Marketing Cloud
 
 
 
